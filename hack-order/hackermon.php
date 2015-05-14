@@ -14,14 +14,14 @@
 					<h3>Hackermon</h3>
 				</header>
 				<div id="slides">
-					<div class="slide"><h1>Go Lang</h1><img src="img/hackermon/pika.png"></div>
-					<div class="slide"><h1>PHP</h1><img src="img/hackermon/phanpy.png"></div>
-					<div class="slide"><h1>Python</h1><img src="img/slides/device-iphone.png"></div>
-					<div class="slide"><h1>Ruby<h1><img src="img/slides/device-ipad.png"></div>
-					<div class="slide"><h1>JavaScript</h1><img src="img/slides/device-iphone.png"></div>
-					<div class="slide"><h1>Java<h1><img src="img/slides/device-ipad.png"></div>
-					<div class="slide"><h1>Scala</h1><img src="img/slides/device-iphone.png"></div>
-					<div class="slide"><h1>Swift<h1><img src="img/slides/device-ipad.png"></div>
+					<div class="slide"><h1>Go Lang</h1><img src="templates/img/hackermon/pika.png"></div>
+					<div class="slide"><h1>PHP</h1><img src="templates/img/hackermon/phanpy.png"></div>
+					<div class="slide"><h1>Python</h1><img src="templates/img/hackermon/dragonair.png"></div>
+					<div class="slide"><h1>Ruby<h1><img src="templates/img/hackermon/geodude.png"></div>
+					<div class="slide"><h1>JavaScript</h1><img src="img/hackermon/mewtwo.png"></div>
+					<div class="slide"><h1>Java<h1><img src="templates/img/hackermon/haunter.png"></div>
+					<div class="slide"><h1>Scala</h1><img src="templates/img/hackermon/entei.gif"></div>
+					<div class="slide"><h1>Swift<h1><img src="templates/img/hackermon/swift.png"></div>
 				</div>
 
 				<nav id="menu">
@@ -29,22 +29,42 @@
 						<li class="sep"></li>
 						<li class="product">
 							<a href="">
-								<img src="img/slides/device-imac-thumb.png" alt="thumbnail">
+								<img src="templates/img/hackermon/goLogo.png" alt="thumbnail">
 							</a>
 						</li>
 						<li class="product">
 							<a href="">
-								<img src="img/slides/device-macbook-thumb.png" alt="thumbnail">
+								<img src="templates/img/hackermon/phpLogo.png" alt="thumbnail">
 							</a>
 						</li>
 						<li class="product">
 							<a href="">
-								<img src="img/slides/device-iphone-thumb.png" alt="thumbnail">
+								<img src="templates/img/hackermon/pythonLogo.png" alt="thumbnail">
 							</a>
 						</li>
 						<li class="product">
 							<a href="">
-								<img src="img/slides/device-ipad-thumb.png" alt="thumbnail">
+								<img src="templates/img/hackermon/rubyLogo.png" alt="thumbnail">
+							</a>
+						</li>
+						<li class="product">
+							<a href="">
+								<img src="templates/img/hackermon/jsLogo.png" alt="thumbnail">
+							</a>
+						</li>
+						<li class="product">
+							<a href="">
+								<img src="templates/img/hackermon/javaLogo.png" alt="thumbnail">
+							</a>
+						</li>
+						<li class="product">
+							<a href="">
+								<img src="templates/img/hackermon/scalaLogo.png" alt="thumbnail">
+							</a>
+						</li>
+						<li class="product">
+							<a href="">
+								<img src="templates/img/hackermon/swiftLogo.png" alt="thumbnail">
 							</a>
 						</li>
 					</ul>

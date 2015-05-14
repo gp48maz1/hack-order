@@ -34,7 +34,7 @@ p{
 }
 
 header{
-	background:url(../img/panel.jpg) repeat-x bottom center #ffffff;
+	background:url(../img/hackermon/panel.jpg) repeat-x bottom center #ffffff;
 	height: 30px;
 	padding-top: 10px;
 	border-bottom: 1px solid #ccc;
@@ -49,7 +49,7 @@ header{
 	-webkit-border-radius:5px;
 	border-radius:5px;
 
-	background:url(../img/panel.jpg) repeat-x bottom center #ffffff;
+	background:url(../img/hackermon/panel.jpg) repeat-x bottom center #ffffff;
 	width:900px;
 	overflow:hidden;
 }
@@ -73,6 +73,7 @@ header{
 	max-height:200px;
 }
 
+
 #menu{
 	height: 45px;
 }
@@ -92,7 +93,7 @@ header{
 }
 
 #menu li.active, li.active:hover{
-	background:url(../img/active_bg.png) no-repeat;
+	background:url(../img/hackermon/active_bg.png) no-repeat;
 }
 
 #menu li.active{
@@ -101,17 +102,18 @@ header{
 
 #menu .sep{
 	width: 2px;
-	background: url(../img/seperator.png) no-repeat right;
+	background: url(../img/hackermon/seperator.png) no-repeat right;
 	margin-right: -2px;
 }
 
 #menu li a {
 	display: block;
-	background: url(../img/seperator.png) no-repeat right;
+	background: url(../img/hackermon/seperator.png) no-repeat right;
 	height: 35px;
 	padding-top: 10px;
 }
 
 #menu a img{
 	border: none;
+	max-height: 35px;
 }

@@ -77,6 +77,16 @@
         </div>
         <!-- /.row -->
 
+        <!-- Section Header -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Hackermon
+                    <small>Primary Languages</small>
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+
         <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
@@ -84,7 +94,7 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">HTML5/CSS3</a>
+                    <a href="#">Go Lang</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
@@ -134,7 +144,7 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">GO</a>
+                    <a href="#">Java</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
@@ -156,21 +166,23 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">SQL</a>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-            </div>
-            <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
-                </a>
-                <h3>
-                    <a href="#">Java</a>
+                    <a href="#">Swift</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
         </div>
         <!-- /.row -->
+
+        <!-- Section Header -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Core
+                    <small>Base Languages</small>
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+
         <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
@@ -178,7 +190,7 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">C++</a>
+                    <a href="#">HTML5/CSS3</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
@@ -187,7 +199,7 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">Lisp</a>
+                    <a href="#">Git</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
@@ -196,12 +208,22 @@
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
-                    <a href="#">Swift</a>
+                    <a href="#">SQL</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
         </div>
         <!-- /.row -->
+
+        <!-- Section Header -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Hackermon to come
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+
         <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
@@ -228,6 +250,37 @@
                 </a>
                 <h3>
                     <a href="#">OCAMAL</a>
+                </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+        <!-- Projects Row -->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                </a>
+                <h3>
+                    <a href="#">C++</a>
+                </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                </a>
+                <h3>
+                    <a href="#">Haskal</a>
+                </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                </a>
+                <h3>
+                    <a href="#">Assembly</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
