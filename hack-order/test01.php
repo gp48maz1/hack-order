@@ -100,6 +100,11 @@
             <input type="button" value="45" name="45_minutes">
         </div>
 
+        <button id="1hr" onclick="add1hrXP()">Add 1 hour</button>
+
+        <button id="1proj" onclick="add1ProjXP()">Add 1 Project</button>
+
+
         <hr>
 
         <!-- Footer -->
